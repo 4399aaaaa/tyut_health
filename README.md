@@ -67,7 +67,7 @@
 5. 添加定时任务
 
    ```
-   5 12，13 * * * cd /scriptPath/ && python3 main.py
+   5 12,13 * * * cd /scriptPath/ && python3 main.py
    ```
 
 #### 参考：
