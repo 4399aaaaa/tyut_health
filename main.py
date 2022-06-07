@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*
+'''
+项目名称: tyut health
+cron: 10 12,13 * * *
+Date: 2022/6/7 下午9:40
+建议cron: 10 12,13 * * *  python3 main.py
+'''
 import requests
 from bs4 import BeautifulSoup
 import  time
