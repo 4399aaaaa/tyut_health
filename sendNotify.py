@@ -344,7 +344,7 @@ def send(title, content):
     :param content:
     :return:
     """
-    content += '\n\n开源免费By: https://github.com/okihane/TYUT-HealthDK'
+    content += '\n\n开源免费By: https://github.com/LH428/tyut_health.git'
     for i in notify_mode:
         if i == 'bark':
             if BARK:
